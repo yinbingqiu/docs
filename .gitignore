@@ -47,3 +47,4 @@ dep.txt
 data/nsq-client-java
 !recharge-dal/src/test/resources/data
 !service/src/test/resources/data
+
